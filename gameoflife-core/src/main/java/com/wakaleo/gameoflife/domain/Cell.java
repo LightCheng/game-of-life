@@ -1,4 +1,5 @@
 package com.wakaleo.gameoflife.domain;
+//Start to test the function....
 
 public enum Cell {
     LIVE_CELL("+"), DEAD_CELL(".");
